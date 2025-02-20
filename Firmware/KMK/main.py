@@ -1,5 +1,5 @@
 '''
-KW-01 RGBoard V1
+KW-01 RGBar V1
 Untested code for a 2x4 macropad using the XIAO RP2040. 
 Currently supports simple numpad function. Blocked on hardware assembly.
 '''
