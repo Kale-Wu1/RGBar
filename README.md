@@ -30,7 +30,7 @@ This hackpad uses KMK firmware. Currently, RGBar just acts like a numpad (with b
 - 1x 3D printed case (top, bottom, and knob)
 - 8x 3D printed keycaps (...or any other keycap for Cherry MX switches)
   
-### Purchased Components
+### COTS Components
 - 8x Cherry MX switches (4 clicky and 4 linear as a personal preference~)
 - 8x 1N4148 Diodes (through hole)
 - 8x SK6812 MINI-E LEDs
