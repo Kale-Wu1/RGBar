@@ -2,6 +2,11 @@
 RGBoard is an 8 key macropad with a rotary encoder. Each key is backlit with a SK6812 reverse mounted neopixel.
 ![KW-01 Assembled](https://github.com/user-attachments/assets/8986adfd-3117-437b-9bf0-5ade84aad97a)
 
+### Inspiration
+I had some extra time, and wanted to make something sleek and minimalist...with RGB, of course ;)
+
+### Challenges
+This was my first PCB, so the routing took a while... hopefully it works - DRC looked pretty good!
 
 ## Features
 - 3D printed case
